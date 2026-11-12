@@ -8,7 +8,7 @@ A dedicated Computer Engineering student from Rajamangala University of Technolo
 ## 🏛️ Executive Summary & Interests
 - 🎓 **Education:** B.Eng. in Computer Engineering, RMUTL (Chiang Mai)
 - 🧠 **Areas of Focus:** Quantitative Data Analysis, Algorithmic System Development, Cloud Applications, and Cybersecurity.
-- 📉 **Analytical Frameworks:** Market Structure Shift & Institutional Liquidity Analytics (SMC Mechanics), Advanced Fibonacci Confluence Modeling.
+- 📉 **Analytical Frameworks:** Market Structure Shift & Institutional Liquidity Analytics (SMC Mechanics), (Alchemist MSNR), Advanced Fibonacci Confluence Modeling. 
 
 ---
 
